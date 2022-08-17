@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arian-k3
+- 👋 Hi, I’m @k3
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning stuff
 - 💞️ I’m looking to collaborate on stuff
